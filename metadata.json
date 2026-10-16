@@ -1,0 +1,6 @@
+{
+  "name": "GreyNova - Premium Mobile Accessories",
+  "description": "Premium mobile accessories e-commerce store featuring precision-engineered phone cases, GaN chargers, wireless earbuds, magnetic power banks, and screen protectors with full checkout and admin management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
